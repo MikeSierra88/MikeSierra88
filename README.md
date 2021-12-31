@@ -58,4 +58,4 @@ A simple static website for family business. Express.js backend with EJS rendere
    
 ## How to reach me
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/meszaros-g/) or you can contact me using the email address on my (GitHub Profile)[https://github.com/MikeSierra88]
+You can find me on [LinkedIn](https://www.linkedin.com/in/meszaros-g/) or you can contact me using the email address on my [GitHub Profile](https://github.com/MikeSierra88)
