@@ -39,7 +39,7 @@ A simple static website for family business. Express.js backend with EJS rendere
 | REST                        | ![](https://progress-bar.dev/90)   | Proficient    |
 | Node.js                     | ![](https://progress-bar.dev/85)   | Proficient    |
 | Express.js                  | ![](https://progress-bar.dev/85)   | Proficient    |
-| Typescript                  | ![](https://progress-bar.dev/80)   | Proficient    |
+| TypeScript                  | ![](https://progress-bar.dev/80)   | Proficient    |
 | Angular2 / RxJs / NgRx (8+) | ![](https://progress-bar.dev/80)   | Proficient    |
 | MongoDB                     | ![](https://progress-bar.dev/70)   | Competent     |
 | CI/CD                       | ![](https://progress-bar.dev/60)   | Intermediate  |
