@@ -13,7 +13,7 @@ As a fun fact, I think I should mention that I used to be an Air Traffic Control
 
 A portfolio website for an indie musician. Continuously expanding in features, and moving towards fully dynamic content. Halfway there.
 
-Currently a MEAN-stack running on Firebase - the Angular 13 frontend (with Bootstrap 5) is served from Firebase Hosting as a static build, while the Express.js API is in Firebase Functions. Currently using MongoDB, but looking to migrate over to Firestore in the future - that's after the Admin interface and API is done with Firebase Auth and the actual data is served from a database. Currently it's hardcoded in the Angular code. Utilizes GitHub actions for CI/CD to Firebase.
+Currently a MEAN-stack running on Firebase - the Angular 13 frontend (with Bootstrap 5) is served from Firebase Hosting as a static build, while the Express-based NestJS API is in Firebase Functions. Using MongoDB as the database. Planning to implement an Admin interface and API with Firebase Auth. Dynamic content is stored in the database. Utilizes GitHub actions for CI/CD to Firebase.
 
 Previously on AWS EC2.
 
@@ -44,6 +44,7 @@ A simple static website for family business. Express.js backend with EJS rendere
 | MongoDB                     | ![](https://progress-bar.dev/70)   | Competent     |
 | CI/CD                       | ![](https://progress-bar.dev/60)   | Intermediate  |
 | AWS                         | ![](https://progress-bar.dev/50)   | Intermediate  |
+| NestJS                      | ![](https://progress-bar.dev/50)   | Intermediate  |
 | React / Redux               | ![](https://progress-bar.dev/50)   | Intermediate  |
 | Java Spring                 | ![](https://progress-bar.dev/25)   | Beginner      |
 | Gradle                      | ![](https://progress-bar.dev/25)   | Beginner      |
