@@ -43,9 +43,10 @@ A simple static website for family business. Express.js backend with EJS rendere
 | Angular2 / RxJs / NgRx (8+) | ![](https://progress-bar.dev/80)   | Proficient    |
 | MongoDB                     | ![](https://progress-bar.dev/70)   | Competent     |
 | CI/CD                       | ![](https://progress-bar.dev/60)   | Intermediate  |
+| NestJS                      | ![](https://progress-bar.dev/60)   | Intermediate  |
+| React / Redux               | ![](https://progress-bar.dev/55)   | Intermediate  |
+| Python                      | ![](https://progress-bar.dev/50)   | Intermediate  |
 | AWS                         | ![](https://progress-bar.dev/50)   | Intermediate  |
-| NestJS                      | ![](https://progress-bar.dev/50)   | Intermediate  |
-| React / Redux               | ![](https://progress-bar.dev/50)   | Intermediate  |
 | Java Spring                 | ![](https://progress-bar.dev/25)   | Beginner      |
 | Gradle                      | ![](https://progress-bar.dev/25)   | Beginner      |
    
