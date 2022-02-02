@@ -13,7 +13,7 @@ As a fun fact, I think I should mention that I used to be an Air Traffic Control
 
 A portfolio website for an indie musician. Continuously expanding in features, and moving towards fully dynamic content. Halfway there.
 
-Currently a MEAN-stack running on Firebase - the Angular 13 frontend (with Bootstrap 5) is served from Firebase Hosting as a static build, while the Express-based NestJS API is in Firebase Functions. Using MongoDB as the database. Planning to implement an Admin interface and API with Firebase Auth. Dynamic content is stored in the database. Utilizes GitHub actions for CI/CD to Firebase.
+MEAN-stack running on Firebase - the Angular 13 frontend (with Bootstrap 5) is served from Firebase Hosting as a static build, while the Express-based NestJS API is hosted on Heroku. Using MongoDB as the database using the NestJS-Mongoose interface. Custom content management (admin) interface using Auth0 for OAuth permission-based authorization with Google social login integration. Dynamic content is served in the database, while on the frontend it is (mostly) stored in NgRx - migration still in progress. Utilizes GitHub actions for CI/CD to Firebase.
 
 Previously on AWS EC2.
 
@@ -32,23 +32,17 @@ A simple static website for family business. Express.js backend with EJS rendere
 
 ## Development Skills
 
+#### I'm proficient in
 
-| Technology                  | Knowledge                          | Skill level   |
-| --------------------------- | ---------------------------------- | ------------- |
-| HTML/CSS/JS                 | ![](https://progress-bar.dev/100)  | Proficient    |
-| REST                        | ![](https://progress-bar.dev/90)   | Proficient    |
-| Node.js                     | ![](https://progress-bar.dev/85)   | Proficient    |
-| Express.js                  | ![](https://progress-bar.dev/85)   | Proficient    |
-| TypeScript                  | ![](https://progress-bar.dev/80)   | Proficient    |
-| Angular2 / RxJs / NgRx (8+) | ![](https://progress-bar.dev/80)   | Proficient    |
-| MongoDB                     | ![](https://progress-bar.dev/70)   | Competent     |
-| CI/CD                       | ![](https://progress-bar.dev/60)   | Intermediate  |
-| NestJS                      | ![](https://progress-bar.dev/60)   | Intermediate  |
-| React / Redux               | ![](https://progress-bar.dev/55)   | Intermediate  |
-| Python                      | ![](https://progress-bar.dev/50)   | Intermediate  |
-| AWS                         | ![](https://progress-bar.dev/50)   | Intermediate  |
-| Java Spring                 | ![](https://progress-bar.dev/25)   | Beginner      |
-| Gradle                      | ![](https://progress-bar.dev/25)   | Beginner      |
+HTML/CSS - JavaScript - REST - Node.js - Express.js - TypeScript - Angular2 / RxJs / NgRx (8+)
+
+#### I'm competent in
+
+MongoDB - NestJS - React / Redux - Java
+
+#### I also know some of
+
+CI/CD (GoCD) - Gradle - AWS - Java Spring - Python
    
 ## How to reach me
 
