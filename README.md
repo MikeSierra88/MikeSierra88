@@ -13,36 +13,36 @@ As a fun fact, I think I should mention that I used to be an Air Traffic Control
 
 A portfolio website for an indie musician. Continuously expanding in features, and moving towards fully dynamic content. Halfway there.
 
-MEAN-stack running on Firebase - the Angular 13 frontend (with Bootstrap 5) is served from Firebase Hosting as a static build, while the Express-based NestJS API is hosted on Heroku. Using MongoDB as the database using the NestJS-Mongoose interface. Custom content management (admin) interface using Auth0 for OAuth permission-based authorization with Google social login integration. Dynamic content is served in the database, while on the frontend it is (mostly) stored in NgRx - migration still in progress. Utilizes GitHub actions for CI/CD to Firebase.
+MEAN-stack running on Firebase - the Angular 13 frontend (with Bootstrap 5) is served from Firebase Hosting as a static build, while the Express-based NestJS API is hosted on Heroku. Using MongoDB as the database using the NestJS-Mongoose interface. Custom content management (admin) interface using Auth0 for OAuth permission-based authorization with Google social login integration. Dynamic content is served from the database, whis (mostly) managed using NgRx on the frontend. Utilizes GitHub actions for CI/CD to Firebase. Also using Firebase Functions for a minor redirecting service.
 
-Previously on AWS EC2.
+Previously hosted on AWS EC2.
 
 ### LeagueWizard Web Application ([repo](https://github.com/MikeSierra88/leaguewizard))
 
 A web application to manage office videogame leagues between friends.
 
-Currently offline. In the present state, it's using Express.js API with EJS server-side rendering to serve Bootstrap-based frontend, and a MongoDB database. Basic username-password session-based authentication. Multiple access levels. Plans are to revive the project and move it to Next.js using a React/Redux frontend
+Currently offline. Work ongoing to port the previously EJS-based Express application to Next.JS and React with a MongoDB database (using Mongoose). UI is being developed using Material UI. Plans are to host the application on Vercel. Possible further expansion would be creating mobile applications using React Native. Current development progress can be seen on the [development branch](https://github.com/MikeSierra88/leaguewizard/commits/development/2.0.0-nextjs-react).
 
-Previously on AWS EC2.
+Previously hosted on AWS EC2.
 
 ### Lautner website ([repo](https://github.com/MikeSierra88/lautner))
 ([web](https://lautnerbt.info))
 
-A simple static website for family business. Express.js backend with EJS rendered server-side. Currently server from Firebase Functions with static content in Firebase Hosting. GitHub actions for CI/CD
+A simple static website for family business. Express.js backend with EJS rendered server-side. Currently served from Firebase Functions with static content in Firebase Hosting. GitHub actions for CI/CD.
 
 ## Development Skills
 
 #### I'm proficient in
 
-HTML/CSS - JavaScript - REST - Node.js - Express.js - TypeScript - Angular2 / RxJs / NgRx (8+)
+HTML/CSS - JavaScript - REST - Git - Node.js - Express.js - TypeScript - Angular2 / RxJs / NgRx (8+) - NestJS
 
 #### I'm competent in
 
-MongoDB - NestJS - React / Redux - Java
+MongoDB - React / Redux - Java
 
 #### I also know some of
 
-CI/CD (GoCD) - Gradle - AWS - Java Spring - Python
+CI/CD (GoCD) - Gradle - AWS - Java Spring - Python - Next.JS - Github Actions
    
 ## How to reach me
 
