@@ -6,7 +6,7 @@ I'm Gabor Meszaros (he/him), a Hungarian software developer with a BSc in Comput
 
 As a fun fact, I think I should mention that I used to be an Air Traffic Controller for 11 years, so I have *some* knowledge of aviation and air traffic management in general. Not to mention my past in Incident Investigation and other ATM expert work. As a hobby, I've sunk thousands of hours into flight simulation as well, so if you have any questions on these topics, I'll gladly try to answer them.
 
-## My hobby projects
+## My projects
 
 ### TylerLevsMusic Web Application ([repo](https://github.com/MikeSierra88/tlm-web-app))
 ([web](https://tylerlevs.com))
