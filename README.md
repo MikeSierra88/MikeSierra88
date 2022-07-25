@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Gabor Meszaros (he/him), a Hungarian software developer with a BSc in Computing and IT (Software). I am currently working as a Software Engineer at the Hungarian office of a  Swiss software company. On my current project, I am working on the Angular (8-12) frontend of a hybrid mobile and web application using Ionic and Capacitor. I am also working with RxJS, NgRx on a daily basis, and utilizing a Java Spring backend with OAuth2.0. The build is done in Gradle, and we're using both a GoCD and Azure DevOps CI/CD. I am also familiar with Jira and Azure DevOps (TFS).
+I'm Gabor Meszaros (he/him), a Hungarian software developer with a BSc in Computing and IT (Software). I am currently working as a Software Engineer at the Hungarian office of a  Swiss software company. On my current project, I am working on the Angular (8-12) frontend of a hybrid mobile and web application using Ionic and Capacitor. I am also working with RxJS, NgRx on a daily basis, and utilizing a Java Spring backend with OAuth2.0. The build is done in Gradle, and we're using both a GoCD and Azure DevOps CI/CD. I am also familiar with Jira and Azure DevOps (TFS). In my hobby projects, I am working with React (and formerly, Redux), NextJS, MongoDB, Material UI, Emotion, GitHub Actions.
 
 As a fun fact, I think I should mention that I used to be an Air Traffic Controller for 11 years, so I have *some* knowledge of aviation and air traffic management in general. Not to mention my past in Incident Investigation and other ATM expert work. As a hobby, I've sunk thousands of hours into flight simulation as well, so if you have any questions on these topics, I'll gladly try to answer them.
 
@@ -18,12 +18,11 @@ MEAN-stack running on Firebase - the Angular 13 frontend (with Bootstrap 5) is s
 Previously hosted on AWS EC2.
 
 ### LeagueWizard Web Application ([repo](https://github.com/MikeSierra88/leaguewizard))
+([web](https://leaguewizard.vercel.app))
 
 A web application to manage office videogame leagues between friends.
 
-Currently offline. Work ongoing to port the previously EJS-based Express application to Next.JS and React with a MongoDB database (using Mongoose). UI is being developed using Material UI. Plans are to host the application on Vercel. Possible further expansion would be creating mobile applications using React Native. Current development progress can be seen on the [development branch](https://github.com/MikeSierra88/leaguewizard/commits/development/2.0.0-nextjs-react).
-
-Previously hosted on AWS EC2.
+Recently deployed the first React-based version to Vercel. Using NextJS with a MongoDB database (Mongoose), Auth0 for authentication, Material UI with Emotion for the UI and theming. Formely an EJS-based Express application hosted on AWS EC2. Besides continuing to add features, further possible plans include React Native-based mobile applications.
 
 ### Lautner website ([repo](https://github.com/MikeSierra88/lautner))
 ([web](https://lautnerbt.info))
@@ -38,11 +37,11 @@ HTML/CSS - JavaScript - REST - Git - Node.js - Express.js - TypeScript - Angular
 
 #### I'm competent in
 
-MongoDB - React / Redux - Java
+MongoDB - Next.JS - React / Redux - Java - Github Actions
 
 #### I also know some of
 
-CI/CD (GoCD) - Gradle - AWS - Java Spring - Python - Next.JS - Github Actions
+CI/CD (GoCD) - Gradle - AWS - Java Spring - Python 
    
 ## How to reach me
 
