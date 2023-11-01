@@ -8,7 +8,7 @@ As a fun fact, I think I should mention that I used to be an Air Traffic Control
 
 ## My projects
 
-### TylerLevsMusic Web Application ([repo](https://github.com/MikeSierra88/tlm-web-app))
+### TylerLevsMusic Web Application (~~[repo](https://github.com/MikeSierra88/tlm-web-app)~~ - private)
 ([web](https://tylerlevs.com))
 
 A portfolio website for an indie musician. Continuously expanding in features, and moving towards fully dynamic content. Halfway there.
