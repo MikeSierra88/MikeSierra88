@@ -8,21 +8,18 @@ As a fun fact, I think I should mention that I used to be an Air Traffic Control
 
 ## My projects
 
-### TylerLevsMusic Web Application (~~[repo](https://github.com/MikeSierra88/tlm-web-app)~~ - private)
+### TylerLevsMusic Web Application ([repo](https://github.com/MikeSierra88/tlm-web-app))
 ([web](https://tylerlevs.com))
 
-A portfolio website for an indie musician. Continuously expanding in features, and moving towards fully dynamic content. Halfway there.
+*No longer maintained*
 
-MEAN-stack running on Firebase - the Angular 13 frontend (with Bootstrap 5) is served from Firebase Hosting as a static build, while the Express-based NestJS API is hosted on Heroku. Using MongoDB as the database using the NestJS-Mongoose interface. Custom content management (admin) interface using Auth0 for OAuth permission-based authorization with Google social login integration. Dynamic content is served from the database, whis (mostly) managed using NgRx on the frontend. Utilizes GitHub actions for CI/CD to Firebase. Also using Firebase Functions for a minor redirecting service.
-
-Previously hosted on AWS EC2.
+A complex web application where the public and adming frontend apps were done using Angular, while the backend was NestJS connecting to a cloud hosted MongoDB database. Authentication was done using Auth0, transactional emails sent using Sendinblue (Brevo). Static content was hosted in Amazon S3.
 
 ### LeagueWizard Web Application ([repo](https://github.com/MikeSierra88/leaguewizard))
-([web](https://leaguewizard.vercel.app))
 
-A web application to manage office videogame leagues between friends.
+A simple web application to manage office videogame leagues between friends.
 
-Recently deployed the first React-based version to Vercel. Using NextJS with a MongoDB database (Mongoose), Auth0 for authentication, Material UI with Emotion for the UI and theming. Formely an EJS-based Express application hosted on AWS EC2. Besides continuing to add features, further possible plans include React Native-based mobile applications.
+Previously deployed the React-based version to Vercel. Using NextJS with a MongoDB database (Mongoose), Auth0 for authentication, Material UI with Emotion for the UI and theming. Formerly an EJS-based Express application hosted on AWS EC2. Further possible expansion could include React Native-based mobile applications.
 
 ### Lautner website ([repo](https://github.com/MikeSierra88/lautner))
 ([web](https://lautnerbt.info))
@@ -37,11 +34,11 @@ HTML/CSS - JavaScript - REST - Git - Node.js - Express.js - TypeScript - Angular
 
 #### I'm competent in
 
-MongoDB - Next.JS - React / Redux - Java - Github Actions
+C# (ASP.NET 8 and EF Core) - MongoDB - Next.JS - React / Redux - Java - Github Actions
 
 #### I also know some of
 
-CI/CD (GoCD) - Gradle - AWS - Java Spring - Python 
+CI/CD (GoCD) - Docker - Gradle - AWS - Java Spring - Python 
    
 ## How to reach me
 
